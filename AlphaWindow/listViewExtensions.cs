@@ -91,6 +91,7 @@ namespace AlphaWindow
                 if (SendMessage(columnHeader, HDM_SETITEM, columnPtr, ref item) == IntPtr.Zero)
                 {
                     throw new Win32Exception();
+                    //some modify in 2019
                 }
             }
         }
