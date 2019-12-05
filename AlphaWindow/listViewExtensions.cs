@@ -92,6 +92,11 @@ namespace AlphaWindow
                 {
                     throw new Win32Exception();
                     //some modify in 2019
+                    
+                    
+             // more great function
+                    
+                    //;;;;;;;
                 }
             }
         }
